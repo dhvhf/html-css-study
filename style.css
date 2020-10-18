@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background: gray;
+  height: 80px;
+  justify-content: space-between;
+}
+
+.div_left {
+  display: flex;
+  align-items: center;
+  margin: 30px;
+}
+
+.div_right {
+  display: flex;
+  align-items: center;
+  margin: 30px;
+}
